@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TH3FRAM3 //// I`m a Architect "real Bricks and Stones"
 - 👀 I’m interested in coding for beginners "to learn code"
-- 🌱 I’m currently learning "Unreal Engine 5" "Parametric Stuff for Rhino GH" "FRACTAL ART"
+- 🌱 I’m currently learning "AI like Everybody I know" "Parametric Stuff for Rhino GH" "FRACTAL ART"
 - 💞️ I’m looking for, to "Find cool Guys for a Adventure Time"
-- 📫 How to reach me "ATM ON TELEGRAM" "https://t.me/TH3FRAM3"
+-
 - 
 
 <!---
